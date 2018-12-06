@@ -11,7 +11,7 @@ for x in t1:
 print("-----------------")
 
 # dict example
-d1 = {"idno":101,"name":"Ravi"}
+d1 = {"idno":101,"name":"Stefan"}
 for x in d1:
     print(x)
 print("-----------------")
