@@ -1,8 +1,8 @@
 
-s1 = 'Sathya'
-s2 = "Sathya"
-s3 = '''Sathya'''
-s4 = """Sathya"""
+s1 = 'Scientist'
+s2 = "Scientist"
+s3 = '''Scientist'''
+s4 = """Scientist"""
 
 print(s1,type(s1))
 print(s2,type(s2))
