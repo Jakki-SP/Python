@@ -3,7 +3,7 @@
 uname = input("Enter Username :")
 upass = input("Enter Password :")
 
-if uname == "sathya" and upass == "tech":
+if uname == "superman" and upass == "spider":
     print("Valid User")
 else:
     print("Invalid User")
