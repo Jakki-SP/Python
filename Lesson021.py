@@ -53,9 +53,9 @@ print("-----------------------")
 
 # Error Program range will accept
 # only Integer
-#for x in range("Sathya"):
+#for x in range("science"):
 #   print(x)
 
 
-for x in "sathya":
+for x in "science":
     print(x,end=" ")
