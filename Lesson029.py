@@ -1,5 +1,5 @@
 
-s1 = "sathya"
+s1 = "avengers"
 for x in s1:
     print(x)
 
@@ -9,7 +9,7 @@ for x in s1:
 print("\n-----------------------")
 print("---------SPLIT---------")
 
-s1 = "Hello this is naveen from sathya tech ampt hyd"
+s1 = "avengers movie by marvel studios"
 va = s1.split()
 print(va)
 
