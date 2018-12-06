@@ -1,5 +1,5 @@
 d1 = {"idno":101,
-      "name":"Ravi",
+      "name":"Alex",
       "salary":125000.00}
 
 # This loop will display Keys
